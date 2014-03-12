@@ -1,10 +1,12 @@
 # "Fulfilled Backers"
 
-"Fulfilled Backers" is a hopefully not so facetious title for a "suite" of tools I developed for fulfillment and general backer management.
+"Fulfilled Backers" is a hopefully not so facetious title for a "suite" of tools I developed for fulfillment and general backer management. Write me if you'd like to contribute to it.
 
-The kickstarter specific code here originated with the [Code Monkey Save World kickstarter](http://www.kickstarter.com/projects/gregpak/code-monkey-save-world). Email templating, some utility functions, etc were pasted and ingloriously merged here from the [JoCo Cruise Crazy](https://jococruisecrazy.com/) booking engine and other projects of mine from the past few years. I was on the [Jonathan Coulton](http://www.jonathancoulton.com/) payroll while this was written, so credit goes to him for not a) taking ownership of my code and b) wanting our work to benefit others (I hope it does!).
+The kickstarter specific code here originated with the [Code Monkey Save World kickstarter](http://www.kickstarter.com/projects/gregpak/code-monkey-save-world). Email templating, some utility functions, etc were pasted and ingloriously merged here from the [JoCo Cruise Crazy](https://jococruisecrazy.com/) booking engine and other projects of mine from the past few years. I was on the [Jonathan Coulton](http://www.jonathancoulton.com/) payroll while this was written, so credit goes to him for not a) taking ownership of my code and b) wanting our work to benefit others (I hope it does!). The idea to open source this project arose as part of our [SXSW panel](http://schedule.sxsw.com/2014/events/event_IAP23793) in 2014.
 
 Generally, the code and DB schema here allow you to project, track and display the rewards owed to your backers and to send email updates about said rewards to those backers. On our kickstarter it was operated by me and by Anna B. Together we operate under the pseudonym "Scarface", for a variety of reasons, which a Jonathan Coulton fan should readily understand.
+
+This project took place in the real world at least as much as online. We owe thanks to our fulfillment house and manufacturers. Referrals available on request.
 
 Below the FAQs section I've written a  more detailed description of what you'll find in the files, from which you can infer in more detail the "features" this "software" "has". Please: use this software as a jumping off point only. All code is provided as is (though I think you can drop me a line through this site and I'd be interested to hear what you are working on). Caveat haxor.
 
