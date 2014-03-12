@@ -1,0 +1,7 @@
+{
+	"require": {
+		"swiftmailer/swiftmailer": "*",
+		"aws/aws-sdk-php": "*",
+		"sendgrid/sendgrid": "*"
+	}
+}

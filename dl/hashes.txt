@@ -1,0 +1,40 @@
+
+Note: an MD5 hash is method of determining whether a file
+has been transferred intact from point to point. It is 
+described here: http://en.wikipedia.org/wiki/Md5sum
+
+Use of MD5 to verify your download is far from necessary,
+so please feel no obligation to use this information.
+
+
+e4919f2adb5fb4d0306198cf3e0c13e3	Artificial_Heart_(flac).zip
+99d0b91b866a74f3a7491eab92099f31	Artificial_Heart_(mp3).zip
+265943a1638af3e5fff04368c626bab8	JocoEverything.zip
+c2155196df66f435e5b823a658188a9c	LOS-ROBOS-4CMSW.pdf
+4cc87bd18c48817b7f9a04ad62aaea49	New_Folder_(flac).zip
+4ca2ad344cb4fa3dc540d136c57a3793	New_Folder_(mp3).zip
+eb15dc16c0519d998905fae14c100534	Other_Experiments_(flac).zip
+c468831807cb58b1a2a803de8493ff97	Other_Experiments_(mp3).zip
+e75d20c5cbd73feaafaf50d58216fa2f	Our_Bodies,_Ourselves,_Our_Cybernetic_Arms_(flac).zip
+13b233378077996ae786245332869361	Our_Bodies,_Ourselves,_Our_Cybernetic_Arms_(mp3).zip
+069c9ba93f1659fc9e82450b4a71e992	Smoking_Monkey_(flac).zip
+2e742cf4dbe68b84a013442c69412637	Smoking_Monkey_(mp3).zip
+7154c6f658004ba58cf7bb7c3091adc5	The_Aftermath_(flac).zip
+e9659b483982730745d2a6503f27a204	The_Aftermath_(mp3).zip
+98a832bb8a5809df117920bef8a8ea24	The_Princess_Who_Saved_Herself.flac
+9f73b9272aa3542a4dd752d063c40ad1	The_Princess_Who_Saved_Herself.mp3
+583113e40fed69963142cbadea1be9cd	Thing_a_Week_Four_(flac).zip
+ae2bb1f689c9a5f66cbbd5d17a500ff3	Thing_a_Week_Four_(mp3).zip
+24a785d4d3cbe8c178f31000aa49f89a	Thing_a_Week_One_(flac).zip
+fb47aa4625cce2423bcca25b26b5d64e	Thing_a_Week_One_(mp3).zip
+df2eef9fb58131a472160fd217c1db26	Thing_a_Week_Three_(flac).zip
+c6c53590d349403f32dafc98b41af635	Thing_a_Week_Three_(mp3).zip
+89df4761e7536972fdd6f194cf1e2c8f	Thing_a_Week_Two_(flac).zip
+c036dc03843528f2683268d21519797b	Thing_a_Week_Two_(mp3).zip
+e3b2ea7e4611d878d8393109034340eb	Where_Tradition_Meets_Tomorrow_(flac).zip
+8f91a3827b1b22d1384940ba72bb2121	Where_Tradition_Meets_Tomorrow_(mp3).zip
+af659d47afd39f078d7a2628794a5066	lost+found_(flac).zip
+2c058f3b0adec2bd58bad2b3461c68d8	lost+found_(mp3).zip
+5583cce2cfd7e02cea3ecfd6f795091e	the_show_with_zefrank_(flac).zip
+c7b283ba5c975e8ae95bfe57c850fdc7	the_show_with_zefrank_(mp3).zip
+Fri, 01 Nov 2013 11:45:34 -0400
