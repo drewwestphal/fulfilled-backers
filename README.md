@@ -41,7 +41,7 @@ The aforementioned tools exist. If you want to pay someone, I'd check out their 
 1. I don't want to. 
 2. My work on JoCo Cruise Crazy and at Jonathan Coulton Heavy Industries is pretty much full time.
 3. Over the years I've used a ton of open source tools so, maybe, this is a small way I can "pay it forward", "give back", or other platitudes.
-4. Don't look a gift horse in the mouth
+4. If you require some sort of kickstarter consultation and you'd like to work with me. Get in touch with me via github. I'd at least be interested in talking, time permitting.
 
 
 ## Features & File Structure
