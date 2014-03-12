@@ -25,7 +25,7 @@ Well, yeah... But there are a number of pretty significant limitations. I wouldn
 4. You can't pull stats or reports or a combined file of everyone or update the files with your own data.
 5. And more
 
-The list goes on. Really, kickstarter let's you message your backers one by one, tier by tier, or all-in. That's it. You can keep track of some backer specific notes if you click on that backer (is there search on this? I don't even know.) and there's a checkbox for whether their order has been fulfilled entirely. That's the extent of the kicktstarter tool. It's one page with a bunch of javascript overlays.
+The list goes on. Really, kickstarter lets you message your backers one by one, tier by tier, or all-in. That's it. You can keep track of some backer specific notes if you click on that backer (is there search on this? I don't even know.) and there's a checkbox for whether their order has been fulfilled entirely. That's the extent of the kicktstarter tool. It's one page with a bunch of javascript overlays.
 
 Generally, I'd say this: Kickstarter has built an amazing platform for funding but backer support is not part of what they provide. You have to do that part on your own.
 
